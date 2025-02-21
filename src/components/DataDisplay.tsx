@@ -4,7 +4,7 @@ const AllFactsDiv = styled.div`
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    background-color: bisque;
+    background-color: lightgreen;
 `;
 
 const SingleFactDiv = styled.div`
@@ -14,8 +14,8 @@ const SingleFactDiv = styled.div`
     max-width: 40%;
     padding: 2%;
     margin: 1%;
-    background-color: lightblue;
-    border: 3px darkblue solid;
+    background-color: green;
+    border: 3px darkgreen solid;
     text-align: center;
     font-size: 1.2rem;
 `;
